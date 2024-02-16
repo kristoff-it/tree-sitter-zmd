@@ -1,5 +1,5 @@
 {
-  "name": "tree-sitter-markdown",
+  "name": "tree-sitter-zmd",
   "version": "0.1.7",
   "description": "Markdown grammar for tree-sitter",
   "main": "bindings/node",
@@ -27,10 +27,10 @@
   },
   "tree-sitter": [
     {
-      "scope": "source.md",
-      "injection-regex": "markdown|md",
+      "scope": "source.zmd",
+      "injection-regex": "zmd",
       "file-types": [
-        "md"
+        "zmd"
       ]
     }
   ]
