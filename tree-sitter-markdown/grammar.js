@@ -13,7 +13,7 @@ const PUNCTUATION_CHARACTERS_ARRAY = [
 ];
 
 module.exports = grammar({
-    name: 'markdown',
+    name: 'zmd',
 
     rules: {
         document: $ => seq(

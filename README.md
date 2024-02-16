@@ -1,3 +1,6 @@
+
+**This fork renames markdown to zmd and does nothing else, its purpose is only to allow syntax highlighting in markdown files that have a Ziggy frontmatter because there doesn't seem to be any easier way.**
+
 # tree-sitter-markdown
 A markdown parser for [tree-sitter].
 

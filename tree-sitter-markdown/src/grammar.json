@@ -1,5 +1,5 @@
 {
-  "name": "markdown",
+  "name": "zmd",
   "rules": {
     "document": {
       "type": "SEQ",
